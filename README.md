@@ -1,3 +1,8 @@
+Internal tool written under time constraints.
+Created to solve a specific operational task.
+Not intended as a showcase project.
+Left here for reference / archival purposes.
+
 # rsa-console
 
 Frontend-консоль на **Preact + Vite 4** в dev-режиме, запущенная через **Bun** и проксируемая **Nginx**. Проект разворачивается в Docker с помощью `docker-compose`.
@@ -231,3 +236,4 @@ nano app/public/data/store.json
 
 * Проект работает в **dev-режиме** и не предназначен для production без дополнительной настройки.
 * Bun используется как runtime и package manager, Node.js не требуется.
+
