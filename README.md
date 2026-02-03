@@ -1,7 +1,7 @@
-Internal tool written under time constraints.
-Created to solve a specific operational task.
-Not intended as a showcase project.
-Left here for reference / archival purposes.
+Внутренний инструмент, написанный в условиях нехватки времени.
+Создан для решения конкретной операционной задачи.
+Не предназначен в качестве демонстрационного проекта.
+Оставлен здесь для справочных / архивных целе
 
 # rsa-console
 
@@ -236,4 +236,5 @@ nano app/public/data/store.json
 
 * Проект работает в **dev-режиме** и не предназначен для production без дополнительной настройки.
 * Bun используется как runtime и package manager, Node.js не требуется.
+
 
